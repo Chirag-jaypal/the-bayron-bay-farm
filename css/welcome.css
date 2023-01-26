@@ -82,7 +82,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .grow {
-    background-image: url("/media/grow.jpg");
+    background-image: url("../media/grow.jpg");
     height: 600px;
     width: 100%;
     display: flex;
@@ -106,7 +106,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .fade {
-    background-image: url("/media/section-1/photo1.jpg");
+    background-image: url("../media/section-1/photo1.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -122,7 +122,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .garden {
-    background-image: url("/media/section-1/photo2.jpg");
+    background-image: url("../media/section-1/photo2.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -138,7 +138,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .florist {
-    background-image: url("/media/section-1/photo3.jpg");
+    background-image: url("../media/section-1/photo3.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -154,7 +154,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .nursary {
-    background-image: url("/media/section-1/photo4.jpg");
+    background-image: url("../media/section-1/photo4.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -172,7 +172,7 @@ fill: rgba(56, 54, 54, 0.87);
 /* FEED */
 
 .feed {
-    background-image: url("/media/feed.jpg");
+    background-image: url("../media/feed.jpg");
     height: 600px;
     width: 100%;
     display: flex;
@@ -196,7 +196,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .three-blue {
-    background-image: url("/media/section-૨/restorant\ 1.jpg");
+    background-image: url("../media/section-૨/restorant\ 1.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -212,7 +212,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .bakery {
-    background-image: url("/media/section-૨/bakery\ 2.jpg");
+    background-image: url("../media/section-૨/bakery\ 2.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -228,7 +228,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .galeto {
-    background-image: url("/media/section-૨/gelato\ 3.jpg");
+    background-image: url("../media/section-૨/gelato\ 3.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -246,7 +246,7 @@ fill: rgba(56, 54, 54, 0.87);
 /* EDUCATE */
 
 .educate {
-    background-image: url("/media/educate.jpg");
+    background-image: url("../media/educate.jpg");
     height: 600px;
     width: 100%;
     display: flex;
@@ -271,7 +271,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .unique {
-    background-image: url("/media/section-3/farm\ tour\ 1.jpeg");
+    background-image: url("../media/section-3/farm\ tour\ 1.jpeg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -287,7 +287,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .workshop {
-    background-image: url("/media/section-3/workshop\ 2.jpg");
+    background-image: url("../media/section-3/workshop\ 2.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -303,7 +303,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .kids {
-    background-image: url("/media/section-3/kids\ 3.jpg");
+    background-image: url("../media/section-3/kids\ 3.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -319,7 +319,7 @@ fill: rgba(56, 54, 54, 0.87);
 }
 
 .activities {
-    background-image: url("/media/section-3/activity\ 4.jpg");
+    background-image: url("../media/section-3/activity\ 4.jpg");
     height: 200px;
     width: 300px;
     display: flex;
@@ -337,7 +337,7 @@ fill: rgba(56, 54, 54, 0.87);
 /* GIVE BACK */
 
 .give-back {
-    background-image: url("/media/give\ back.jpg");
+    background-image: url("../media/give\ back.jpg");
     height: 600px;
     width: 100%;
     display: flex;
