@@ -1,0 +1,228 @@
+/* navigation */
+
+nav {
+    position: relative;
+}
+
+body {
+    margin: 0px;
+}
+
+.main {
+    display: flex;
+    width: auto;
+    margin: 40px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    /* background-color: aqua; */
+    margin-right: 30px;
+}
+
+.container2 {
+    border-bottom: 1p solid black;
+    display: flex;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    justify-content: right;
+    align-items: center;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav ul li {
+    padding: 10px;
+
+}
+
+.search-input25 {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 50px;
+    padding-right: 12px;
+}
+
+svg {
+    width: 20px;
+    color: rgb(104, 100, 100);
+    padding-right: 12px;
+fill: rgba(56, 54, 54, 0.87);
+}
+
+.search-a {
+    padding-right: 12px;
+    color: rgba(63, 61, 61, 0.795);
+
+}
+
+
+/* footer */
+
+footer {
+    background-color: rgba(37, 32, 32, 0.753);
+    color: white;
+}
+
+.footer-insta-logo,
+.footer-facebook-logo{
+    background-color: aliceblue;
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    border-radius: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.infalogo {
+    display: flex;
+    border: 1px soid black;
+    justify-content: center; 
+   padding: 25px;
+   text-align: center;
+   
+}
+
+.head {
+    text-align: center;
+}
+
+.detail {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.typ-1 {
+    height: 35px;
+}
+
+.btn4 {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+
+.btn-4 {
+    border: 2px solid rgb(184, 176, 176);
+    font-size: 18px;
+    background: none;
+    color: rgb(184, 176, 176);
+    padding: 15px 40px;
+    text-align: center;
+}
+
+.btn-4:hover {
+    color: white;
+    background-color: black;
+}
+
+.opetax {
+    text-align: center;
+}
+
+.opeli {
+    text-align: center;
+    padding: 15px;
+    list-style: none;
+}
+
+.li-1 {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.twobtn {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+.bookbtn-in {
+    padding: 15px 40px;
+}
+
+.bookbtn-in:hover {
+    color: black;
+    background-color: white;
+}
+
+.openingbtn-in {
+    padding: 15px 40px;
+}
+
+.openingbtn-in:hover {
+    color: black;
+    background-color: white;
+}
+
+.time {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.peregraph {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.searchtab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.foot-searchbtn{
+
+}
+.svglogo2{
+    position: absolute;
+    height: 25px;
+    padding: 10px;
+}
+
+.search-input2 {
+  
+    background-repeat: no-repeat;
+    border: none;
+    fill: rgba(58, 53, 53, 0.651);
+    padding: 15px 100px;
+}
+
+
+.lastli {
+    text-align: center;
+    font-size: small;
+   padding: 35px;
+}
+.footer-a{
+    text-decoration: none;
+    color: white;
+} 
+
